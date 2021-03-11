@@ -1,4 +1,5 @@
-
+wanted_prime_count = 10001
+prime_count = 0
 num = 2
 while True:
     for i in range(2,num):
